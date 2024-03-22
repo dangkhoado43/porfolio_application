@@ -1,0 +1,14 @@
+.contact form .textarea-field.error .focus {
+    height: 28rem;
+}
+
+form .field .error-txt {
+    font-size: 14.5px;
+    text-align: left;
+    color: #d93025;
+    display: none;
+}
+
+.input-field .error-txt {
+    margin-top: 10px;
+}
